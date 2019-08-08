@@ -12,7 +12,7 @@ The phrase “awkward chat” refers to inevitable chats with boring people. It 
 
 Some linguists suggest that the phrase may have a connection with typical Chinese temperament of refraining oneself from criticizing or directly embarrassing others, as abrupt interruption or refusal to talk would be considered impolite in the Chinese cultural context.
 
-## Awesome Awkward Chat
+## Resources
 
 1. [七夕礼物没送对？飞桨PaddlePaddle帮你读懂女朋友的小心思](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247526995&idx=2&sn=3ebcce11df09fe83adc654ee4bcc6ff5) ([repo](https://github.com/PaddlePaddle/models/tree/v1.5.1/PaddleNLP/emotion_detection))
 1. [Analyze mood through girlfriend's words](https://github.com/CasterWx/python-girlfriend-mood)
