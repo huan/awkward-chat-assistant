@@ -2,7 +2,7 @@
 
 尬聊助手
 
-![awkward chat](huan.github.io/awkward-chat-assitant/images/awkward-chat.jpeg)
+![awkward chat](https://huan.github.io/awkward-chat-assistant/images/awkward-chat.jpeg)
 
 > Source: [2017新词：尬聊](http://www.sohu.com/a/212153109_179092)
 
