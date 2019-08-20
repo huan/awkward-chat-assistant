@@ -16,6 +16,7 @@ Some linguists suggest that the phrase may have a connection with typical Chines
 
 1. [七夕礼物没送对？飞桨PaddlePaddle帮你读懂女朋友的小心思](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247526995&idx=2&sn=3ebcce11df09fe83adc654ee4bcc6ff5) ([repo](https://github.com/PaddlePaddle/models/tree/v1.5.1/PaddleNLP/emotion_detection))
 1. [Analyze mood through girlfriend's words](https://github.com/CasterWx/python-girlfriend-mood)
+1. [搜狗输入法发布业内首个AI助手](https://www.jiqizhixin.com/articles/2019-08-19-19)
 
 ## Author
 
